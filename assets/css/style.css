@@ -1,0 +1,102 @@
+body
+{
+    margin-top: 50;
+    margin-left: 50;
+    padding: 0;
+    background-color: white;
+}
+
+.image
+{
+    display: block;
+    border-radius: 60%;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 
+{
+    margin-top: 10%;
+    color: white;
+    margin-left: 10;
+    margin-right: 10%;
+    
+}
+.log-in
+{
+  background-color: white;
+  color: rgb(59, 168, 231);
+  width: 270px;
+  height: 400px;
+  padding: 10px;
+  margin: 10;
+  border-radius: 20%;
+  border: 2px solid gray;
+}
+ 
+input
+{
+  padding: 4px ;
+  margin: 10px 0;
+  border: none;
+  border-bottom: 2px solid gray;
+}
+
+.sign-up
+{
+  background-color: rgb(59, 168, 231);
+  color: white;
+  width: 270px;
+  height: 400px;
+  padding: 10px;
+  margin: 10;
+  border: hidden;
+  border-radius: 20%;
+  border: 2px solid gray;
+}
+.center-text{
+  text-align: center;
+}
+
+.checkbox-text
+{
+  margin-top: auto;
+  margin: 0px;
+  color: gray;
+}
+
+.button-login {
+  background-color: rgb(59, 168, 231);
+  color: white;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  padding: 15px;
+  margin: 2px 0 5px 0;
+  border-radius: 20px;
+  }
+
+.create-account
+{
+  background-color: white;
+    color: rgb(59, 168, 231);
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    padding: 10px;
+    margin: 10px 0 5px 0;
+}
+
+.button-forgot-password 
+{
+  background-color: white;
+  color: rgb(59, 168, 231);
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  width: 100%;
+  padding: 30px;
+  margin: 2px 0 5px 0;
+
+}
